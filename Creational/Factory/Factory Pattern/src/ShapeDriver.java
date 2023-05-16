@@ -1,4 +1,4 @@
-// This is the driver class
+// This is the Driver class, which utilise the factory class for getting the object of the required type
 
 public class ShapeDriver {
 
